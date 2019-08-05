@@ -11,12 +11,6 @@ Objectives:
 - Deploy production model
 
 
-Project Outline:
-- Day One: Source and Collect Data
-- Day Two: Data exploration and understanding. Begin modeling processes. 
-- Day Three: 
-- Day Four:
-- Day Five: 
 
 
 ## Data Collection, Exploration and Understanding
